@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(24,10): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(25,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(26,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(27,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(28,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(29,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(7,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(34,10): warning C4101: y2: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(34,6): warning C4101: y1: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(6,41): warning C4101: a3: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(6,37): warning C4101: a2: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(6,33): warning C4101: a1: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(34,14): warning C4101: y3: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(8,12): warning C4101: p: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(7,15): warning C4101: mmmm: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(34,26): warning C4101: y6: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(6,49): warning C4101: a5: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(34,22): warning C4101: y5: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(9,12): warning C4101: i: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(6,53): warning C4101: a6: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(6,45): warning C4101: a4: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(7,6): warning C4101: h: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(34,18): warning C4101: y4: неиспользованная локальная переменная
+C:\Users\User\Desktop\С++\Project4\Project4\Source.cpp(7,12): warning C4101: u: неиспользованная локальная переменная
+  Project4.vcxproj -> C:\Users\User\Desktop\С++\Project4\Debug\Project4.exe
